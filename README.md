@@ -1,0 +1,2 @@
+# SSGVotingSystem
+Voting system
